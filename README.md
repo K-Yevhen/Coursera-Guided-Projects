@@ -1,2 +1,6 @@
-# Coursera-Guided-Projects
-Guided projects were completed through educational platform Coursera and Rhyme. 
+### Coursera-Guided-Projects
+
+##Coursera Project Network
+
+#Guided projects were completed through educational platform Coursera and Rhyme. 
+
